@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+.display{
+    border-radius: 5px;
+      padding: 10px;
+        border: 2px solid #51b66f96;
+}
+.container{
+  width:15%
+}
+.keys {
+
+  border-radius: 5px;
+
+}
+
+.keypad {
+
+  padding: 10px;
+  border: 2px solid #51b66f96;
+}
+
